@@ -1,9 +1,16 @@
-This is a simple and traditional game of TIC-TAC-TOE.
-Coded in python with minimalistic user appearance.
+DESCRIPTION:
+	-Classical Tic-Toc-Toe game.
+	-CLI based GUI.
+	-Written in Python3
 
-Can be used if desired.[For personal Use Only]
+TECHNOLOGY & TOOLS USED:
+	-Python3
+	-git
+	-gitHub
+	-VSCode
 
 
-For any suggestion and feedback please contact:
-orneto11@gmail.com
-Thank You.
+CONTACT:
+For any feedback & suggestions,
+mail me: orneto11@gmail.com
+
