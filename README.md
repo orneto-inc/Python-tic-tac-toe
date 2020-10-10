@@ -9,7 +9,7 @@ TECHNOLOGY & TOOLS USED:
 	-gitHub
 	-VSCode
 	
-Resources: 
+
 
 
 CONTACT:
